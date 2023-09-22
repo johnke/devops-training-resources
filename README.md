@@ -12,6 +12,7 @@ If you have any other ideas, feel free to suggest them!
 ## Courses
 
 - [Certified Kubernetes Administrator (CKA) with Practice Tests](https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/)
+- [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests/) (free!)
 
 ## Certification
 
