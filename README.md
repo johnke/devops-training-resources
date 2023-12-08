@@ -12,6 +12,7 @@ If you have any other ideas, feel free to suggest them!
 ## Courses
 
 - [Certified Kubernetes Administrator (CKA) with Practice Tests](https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/)
+- Certified Kubernetes Security Specialist (CKS) Study Guide
 - [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests/) (free!)
 
 ## Certification
@@ -43,6 +44,12 @@ If you have any other ideas, feel free to suggest them!
 - [Accelerate: The Science of Lean Software and Devops: Building and Scaling High Performing Technology Organizations](https://www.amazon.co.uk/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339/)
 - [Doing Agile Right: Transformation Without Chaos](https://www.amazon.co.uk/Doing-Agile-Right-Transformation-Without/dp/163369870X/)
 - [Lean Enterprise: How High Performance Organizations Innovate at Scale](https://www.amazon.co.uk/Lean-Enterprise-Performance-Organizations-Innovate/dp/1492091774/)
+- [GitOps Cookbook](https://www.amazon.co.uk/Gitops-Cookbook-Kubernetes-Automation-Practice/dp/14920)
+- [Pragmatic Programmer](https://www.amazon.co.uk/Pragmatic-Programmer-journey-mastery-Anniversary/dp/0135957052/)
+
+### Go
+
+- [Learning Go](https://www.amazon.co.uk/Learning-Go-Idiomatic-Real-World-Programming/dp/1492077216/)
 
 ### Kubernetes
 
@@ -53,6 +60,7 @@ If you have any other ideas, feel free to suggest them!
 - [Kubernetes: Up and Running: Dive into the Future of Infrastructure](https://www.amazon.co.uk/Kubernetes-Running-Dive-Future-Infrastructure/dp/1492046531/)
 - [Kubernetes Best Practices](https://www.amazon.co.uk/Kubernetes-Best-Practices-Blueprints-Applications/dp/1492056472/)
 - [Cloud Native DevOps with Kubernetes: Building, Deploying, and Scaling Modern Applications in the Cloud](https://www.amazon.co.uk/Cloud-Native-Devops-Kubernetes-Applications/dp/1098116828/)
+- [Kubernetes Security and Observability](https://www.amazon.co.uk/Kubernetes-Security-Observability-Containers-Applications/dp/1098107101/)
 
 ### Python
 
@@ -68,10 +76,27 @@ If you have any other ideas, feel free to suggest them!
 
 - [Practical Cloud Security](https://www.amazon.co.uk/Practical-Cloud-Security-Secure-Deployment/dp/1492037516/)
 - [Container Security](https://www.amazon.co.uk/Container-Security-Fundamental-Containerized-Applications/dp/1492056707/)
+- Agile Application Security
+- Intelligence-driven Incident Response
+- Security Chaos Engineering
+- Defensive Security Handbook
+- Network Security Assessment
+- Practical Data Privacy
+- Security and Microservice Architecture on AWS
+- 97 Things Every Information Security Professional Should Know
+- Modern Data Protection
+- The Cybersecurity Manager's Guide
+- Threat Modeling
+- Web Application Security
+- Cybersecurity Ops with bash
+- Learning Kali Linux
+- Zero Trust Networks
 
-### Monitoring
+### Monitoring / Observability
 
 - [Practical Monitoring](https://www.amazon.co.uk/Practical-Monitoring-Mike-Julian/dp/1491957352/)
+- [Observability Engineering](https://www.amazon.co.uk/Observability-Engineering-Achieving-Production-Excellence/dp/1492076)
+- [Prometheus Up and Running](https://www.amazon.co.uk/Prometheus-Infrastructure-Application-Performance-Monitoring/dp/1098131142/)
 
 ### Personal Development
 
